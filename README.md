@@ -1,8 +1,8 @@
 # Sandwich Club Project 
 
 ## Project Overview
-In this project, I completed my first app for my Android Developer Nanodegree the **Sandwich Club** to
-show the details of each sandwich once it is selected.
+In this project, I completed my first app for my Android Developer Nanodegree, **Sandwich Club App.** This app 
+shows the details of each sandwich once it is selected.
 
 
 ## What I Learned.
